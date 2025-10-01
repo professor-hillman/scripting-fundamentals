@@ -8,13 +8,13 @@ Welcome to the course! This repository contains the development environment and 
 
 **Important:** Do NOT clone this repository directly. Instead, create your own copy by using it as a template.
 
-1. **Click the green "Use this template" button** at the top right of this page (next to the "Code" button)
+1. **Click the green "Use this template" button** at the top right of this page
 2. **Select "Create a new repository"** from the dropdown menu
 3. **Configure your new repository:**
    - **Owner:** Select your GitHub account
-   - **Repository name:** Use this format: `cosn-206-f2025-lastname` (e.g., `cosn-206-f2025-hillman`)
-   - **Description:** (Optional) "My coursework for Scripting Fundamentals"
-   - **Visibility:** Choose **Private** (recommended) or Public
+   - **Repository name:** Give your repo a name like: `lbcc-scripting`
+   - **Visibility:** Choose **Private** (recommended) or P.g., `cosn-206-f2025-hillman`)
+   - **Description:** (Optional) "My coursework for Scriptiublic
    - **Leave "Include all branches" unchecked**
 4. **Click "Create repository"**
 
